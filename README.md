@@ -1,4 +1,4 @@
-#Link of deployed version
+# Link of project
 https://github-firebase.netlify.app/
 
 # Getting Started with Create React App
